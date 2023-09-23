@@ -19,4 +19,4 @@ if tempoServico >= 5:
     print(f'Bônus de de 5% sobre o salario R${salario} é igual R${bonusSalario}')
     print(f'Seu novo salário com bônus é de R${novoSalario} ') 
 else:
-    print('Tempo de serviço')    
+    print('Tempo de serviço não da direito ao Bonus')    
